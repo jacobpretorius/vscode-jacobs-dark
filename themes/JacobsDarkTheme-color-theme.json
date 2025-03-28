@@ -35,7 +35,7 @@
 			"name": "String",
 			"scope": "string",
 			"settings": {
-				"foreground": "#98c379" // TODO
+				"foreground": "#d19a66"
 			}
 		},
 		{
@@ -240,7 +240,7 @@
 			"name": "Library type",
 			"scope": "support.type",
 			"settings": {
-				"foreground": "#e06c75"
+				"foreground": "#56b6c2"
 			}
 		},
 		{
