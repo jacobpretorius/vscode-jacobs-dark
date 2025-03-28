@@ -177,7 +177,7 @@
 			"scope": "entity.other.attribute-name",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#d19a66"
+				"foreground": "#56b6c2"
 			}
 		},
 		{
@@ -329,6 +329,7 @@
 				"variable.other.object",
 				"variable.other.property",
 				"variable.other.block",
+				"variable.other.member"
 			],
 			"settings": {
 				"foreground": "#e06c75"
@@ -414,6 +415,19 @@
 		},
 		{
 			"scope": "entity.name.filename.find-in-files",
+			"settings": {
+				"foreground": "#98c379"
+			}
+		},
+		{
+			"name": "Import Specifier",
+			"scope": [
+				"entity.name.import",
+				"entity.name.import.js",
+				"entity.name.import.jsx",
+				"entity.name.import.ts",
+				"entity.name.import.tsx"
+			],
 			"settings": {
 				"foreground": "#98c379"
 			}
