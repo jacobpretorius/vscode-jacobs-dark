@@ -3,8 +3,8 @@
     "displayName": "Jacobs Dark Theme",
     "description": "Jacobs Dark Theme loosely based on Atom's One Dark Theme",
     "version": "0.1.0",
-    "publisher": "jacobpretorius",
-    "author": "Jacob Pretorius <jacob@jacobpretorius.com>",
+    "publisher": "jacob-earth",
+    "author": "Jacob Pretorius <bsky.app/profile/jacob.earth>",
     "license": "MIT",
     "icon": "icon.png",
     "engines": {
