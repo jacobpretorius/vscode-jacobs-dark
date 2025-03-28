@@ -59,7 +59,7 @@
 			"name": "Number",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#d19a66"
+				"foreground": "#e5c07b"
 			}
 		},
 		{
@@ -233,7 +233,7 @@
 			"name": "Library class/type",
 			"scope": "support.class",
 			"settings": {
-				"foreground": "#e5c07b"
+				"foreground": "#61afef"
 			}
 		},
 		{
