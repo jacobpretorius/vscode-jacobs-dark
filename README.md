@@ -2,17 +2,17 @@
 
 One dark theme for Visual Studio Code, loosely based on Atom's One Dark
 
-
-
-
 ## Install
 
 press `ctl/command + shift + p` to launch the command palette then run
 ```
-ext install =
+ext install = theme-jacobs-dark
 ```
 
 ## Screenshot
+Example for JSON & JS
+
+![Theme Screenshot](screenshot.png)
 
 
 ## Modification
@@ -27,10 +27,5 @@ cursor --uninstall-extension theme-jacobs-dark-0.1.0.vsix && vsce package && cur
 
 ```
 
-## Credit
-Forked from https://github.com/azemoh/vscode-onedark
-
-TODO
-add icon
-screenshots
-license
+## Credits
+Forked from [vscode-onedark](https://github.com/azemoh/vscode-onedark)

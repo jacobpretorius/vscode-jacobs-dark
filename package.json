@@ -6,6 +6,7 @@
     "publisher": "jacobpretorius",
     "author": "Jacob Pretorius <jacob@jacobpretorius.com>",
     "license": "MIT",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.13.0"
     },

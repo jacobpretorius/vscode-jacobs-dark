@@ -431,6 +431,43 @@
 			"settings": {
 				"foreground": "#98c379"
 			}
+		},
+		{
+			"name": "Markdown Headings",
+			"scope": [
+				"markup.heading",
+				"markup.heading.1",
+				"markup.heading.2",
+				"markup.heading.3",
+				"markup.heading.4",
+				"markup.heading.5",
+				"markup.heading.6"
+			],
+			"settings": {
+				"foreground": "#61afef"
+			}
+		},
+		{
+			"name": "Markdown Links",
+			"scope": [
+				"markup.underline.link",
+				"markup.underline.link.markdown",
+				"markup.underline.link.image.markdown"
+			],
+			"settings": {
+				"foreground": "#56b6c2"
+			}
+		},
+		{
+			"name": "Markdown Code Blocks",
+			"scope": [
+				"markup.fenced_code.block.markdown",
+				"markup.fenced_code.block.punctuation.definition.markdown",
+				"markup.fenced_code.block.fenced.markdown"
+			],
+			"settings": {
+				"foreground": "#e06c75"
+			}
 		}
 	],
 	"colors": {
