@@ -1,6 +1,6 @@
 # Jacobs Dark Theme
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/jacob-earth.theme-jacobs-dark.png)](https://marketplace.visualstudio.com/items?itemName=jacob-earth.theme-jacobs-dark) [![Installs](https://vsmarketplacebadge.apphb.com/installs/jacob-earth.theme-jacobs-dark.png)](https://marketplace.visualstudio.com/items?itemName=jacob-earth.theme-jacobs-dark) [![Ratings](https://vsmarketplacebadge.apphb.com/rating/jacob-earth.theme-jacobs-dark.png)](https://marketplace.visualstudio.com/items?itemName=jacob-earth.theme-jacobs-dark) [![GitHub stars](https://img.shields.io/github/stars/jacobpretorius/vscode-jacobs-dark.png?style=social&label=Star&maxAge=2592000)](https://github.com/jacobpretorius/vscode-jacobs-dark)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/jacob-earth.theme-jacobs-dark)](https://marketplace.visualstudio.com/items?itemName=jacob-earth.theme-jacobs-dark) [![Downloads](https://img.shields.io/visual-studio-marketplace/d/jacob-earth.theme-jacobs-dark?style=flat)](https://marketplace.visualstudio.com/items?itemName=jacob-earth.theme-jacobs-dark) [![Ratings](https://img.shields.io/visual-studio-marketplace/stars/jacob-earth.theme-jacobs-dark)](https://marketplace.visualstudio.com/items?itemName=jacob-earth.theme-jacobs-dark) [![GitHub stars](https://img.shields.io/github/stars/jacobpretorius/vscode-jacobs-dark.png?style=social&label=Star&maxAge=2592000)](https://github.com/jacobpretorius/vscode-jacobs-dark)
 
 One dark theme for Visual Studio Code, loosely based on Atom's One Dark
 
