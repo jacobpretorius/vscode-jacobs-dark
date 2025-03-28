@@ -19,7 +19,7 @@
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#5c6370",
+				"foreground": "#98c379",
 				"fontStyle": "italic"
 			}
 		},
@@ -27,7 +27,7 @@
 			"name": "Comment",
 			"scope": "html.doctype",
 			"settings": {
-				"foreground": "#5c6370",
+				"foreground": "#98c379",
 				"fontStyle": "italic"
 			}
 		},
@@ -35,7 +35,7 @@
 			"name": "String",
 			"scope": "string",
 			"settings": {
-				"foreground": "#98c379"
+				"foreground": "#98c379" // TODO
 			}
 		},
 		{
@@ -247,7 +247,7 @@
 			"name": "Json Property",
 			"scope": "support.dictionary.json",
 			"settings": {
-				"foreground": "#e06c75"
+				"foreground": "#56b6c2"
 			}
 		},
 		{
@@ -340,7 +340,7 @@
 				"pug.import.variable"
 			],
 			"settings": {
-				"foreground": "#e06c75"
+				"foreground": "#56b6c2"
 			}
 		},
 		{
@@ -364,7 +364,7 @@
 			"name": "JSON String",
 			"scope": "structure.dictionary.property-name.json",
 			"settings": {
-				"foreground": "#e06c75"
+				"foreground": "#56b6c2"
 			}
 		},
 		{
@@ -474,5 +474,5 @@
     "titleBar.inactiveBackground": "#282C34",
     "titleBar.inactiveForeground": "#6B717D"
 	},
-	"name": "One Dark Theme"
+	"name": "Jacobs Dark Theme"
 }

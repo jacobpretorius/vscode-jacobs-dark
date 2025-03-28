@@ -1,12 +1,11 @@
 {
-    "name": "theme-onedark",
-    "displayName": "One Dark Theme",
-    "description": "One Dark Theme based on Atom's One Dark Theme",
-    "version": "0.6.0",
-    "publisher": "azemoh",
-    "author": "Joshua Azemoh <joshazemoh@gmail.com> (http://azemoh.com)",
+    "name": "theme-jacobs-dark",
+    "displayName": "Jacobs Dark Theme",
+    "description": "Jacobs Dark Theme loosely based on Atom's One Dark Theme",
+    "version": "0.1.0",
+    "publisher": "jacobpretorius",
+    "author": "Jacob Pretorius <jacob@jacobpretorius.com>",
     "license": "MIT",
-    "icon": "icon.png",
     "engines": {
         "vscode": "^1.13.0"
     },
@@ -16,28 +15,23 @@
     "contributes": {
         "themes": [
             {
-                "label": "One Dark Theme",
+                "label": "Jacobs Dark Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/OneDarkTheme-color-theme.json"
+                "path": "./themes/JacobsDarkTheme-color-theme.json"
             }
         ]
     },
     "bugs": {
-        "url": "https://github.com/azemoh/vscode-onedark/issues"
+        "url": "https://github.com/jacobpretorius/vscode-jacobs-dark/issues"
     },
-    "homepage": "https://github.com/azemoh/vscode-onedark/blob/master/README.md",
+    "homepage": "https://github.com/jacobpretorius/vscode-jacobs-dark/blob/main/README.md",
     "repository": {
         "type": "git",
-        "url": "https://github.com/azemoh/vscode-onedark.git"
+        "url": "https://github.com/jacobpretorius/vscode-jacobs-dark.git"
     },
     "keywords": [
         "Vscode",
         "Theme",
-        "Onedark"
-    ],
-    "__metadata": {
-        "id": "cc1b9e15-8d4e-43ed-8a31-b81683af6bc4",
-        "publisherDisplayName": "Joshua Azemoh",
-        "publisherId": "25cdca6a-b422-4806-9041-a44a52d1a7d5"
-    }
+        "Jacobs Dark Theme"
+    ]
 }
